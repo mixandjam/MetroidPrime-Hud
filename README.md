@@ -1,2 +1,3 @@
-# metroidprime-hud
-Recreating the HUD visual from the Metroid Prime series
+# Metroid Prime's HUD Visual | Mix and Jam
+
+This is the official respository for the fifteenth episode of the [Mix and Jam Youtube Channel](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)!
